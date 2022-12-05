@@ -3,7 +3,7 @@
 """
 Created on Mon Nov 30 18:21:35 2020
 
-@author: administrator
+@author: Taylor Mundel
 """
 
 from astropy.io import ascii
