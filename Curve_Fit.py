@@ -251,7 +251,7 @@ while(i < 58483):
     
 mean_prediction = np.mean(predictions)
 mean_farenheight = mean_prediction * (9/5) + 32
-print("The mean temperature on December 4th is {: .2f} degrees celsius and {: .2f} degrees farenheight\n" .format(mean_prediction, mean_farenheight))
+print("The mean temperature on December 4th, 2020 is {: .2f} degrees celsius and {: .2f} degrees farenheight\n" .format(mean_prediction, mean_farenheight))
 
 #2C: Confidence Interval
 
